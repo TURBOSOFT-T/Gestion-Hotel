@@ -10,6 +10,8 @@
             @lang('quickadmin.qa_edit')
         </div>
 
+
+        
         <div class="panel-body">
             <div class="row">
                 <div class="col-xs-12 form-group">

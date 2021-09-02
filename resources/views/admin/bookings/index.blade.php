@@ -120,5 +120,7 @@
             @if ( request('show_deleted') != 1 ) window.route_mass_crud_entries_destroy = '{{ route('admin.bookings.mass_destroy') }}'; @endif
         @endcan
 
+
+        
     </script>
 @endsection
